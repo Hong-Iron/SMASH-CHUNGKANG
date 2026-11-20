@@ -1,0 +1,34 @@
+{
+ "region": "경기 이천시 마장면 해월리",
+ "nameEn": "Chungkang College of Cultural Industries",
+ "added": "2026-10-24",
+ "rank": 177,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KTC",
+   "campus": "한국관광대학교",
+   "km": 8.9
+  },
+  {
+   "code": "YSC",
+   "campus": "용인예술과학대학교",
+   "km": 12.4
+  },
+  {
+   "code": "TONGWON",
+   "campus": "동원대학교",
+   "km": 14.3
+  },
+  {
+   "code": "MJU-YONGIN",
+   "campus": "명지대학교 자연캠퍼스",
+   "km": 15.0
+  },
+  {
+   "code": "DIMA",
+   "campus": "동아방송예술대학교",
+   "km": 16.4
+  }
+ ]
+}
